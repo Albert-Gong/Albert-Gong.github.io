@@ -1,16 +1,18 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
 == Research
 
-I have a great interest in varieties of research areas, including system logs, anomaly detection, machine learning and deep learning. I am always exploring every 
+I have a great interest in varieties of research areas, including anomaly detections, machine learning, deep learning and natural language processing. I am always exploring every 
 fascinating area with an open mind.
 
+In the future, I am eager to explore scientific topics on AI like NLP. I hope I can make contributions to some specific area!
 
-== Log-based Anomaly detection (2021.04-now)
+== Log-based Anomaly detection (2021.05 - 2022.03)
 Currently, I am working on the project on log-based anomaly detections, under the supervision of [http://cic.tju.edu.cn/info/1094/2582.htm Prof. Junjie Chen]. \n
 
-Firstly, we conducted an empirical study on several state-of-art anomaly detection models, which leverage the technique in machine learning and deep learning.
-Then We analysed these models under different situations to evaluate their effiency, effectiveness and stability. Finally, we are going to propose an improved machine learning model
-which can detect anamalies in log sequences in a fast and accurate way.
+- Fisrtly, we conducted an empirical study on state-of-art models, including PCA, LogCluster, DeepLog, LogAnomaly, PLELog and LogRobust after we reproducing these models as well as their claimed performance.
+- Secondly, we analysed these models under different conditions on 5 different datasets (HDFS, BGL, Spirit, NC and MC), summarizing unhandled and picky problems that SOTA models face.
+- Thirdly, we proprose a model called PCA plus plus based on a machine learning model PCA, , which is able to detect log anomalies in a effective and effient way.
 
-Our paper is coming soon!
+
+Our paper is coming soon! 
 

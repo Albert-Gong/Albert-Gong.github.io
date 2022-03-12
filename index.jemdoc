@@ -2,27 +2,36 @@
 == Zhihao Gong
 
 ~~~
-{}{img_left}{./persona/photo.jpg}{alt text}{120}{160}{}
-Undergraduate \n
+{}{img_left}{./resource/img/profile.jpg}{alt text}{120}{160}{}
 Tianjin University (TJU) \n
 [http://cic.tju.edu.cn/ College of Intelligence and Computing], Software Engineering \n
-
+Undergraduate \n
 Phone: \+86 138 1211 3863 \n
 Email: gongzhihao@tju.edu.cn \n
-Github: [https://github.com/Albert-orz/ Albert's github] \n
-[./persona/cv.pdf My CV] \n
+Github: [https://github.com/Albert-Gong/ Albert-Gong] \n
+Resume: [./resource/resume/cv.pdf Chinese CV] [./resource/resume/cv.pdf English CV] \n
 ~~~
 
+== Education
+2019.09 - present
+- Software Engineering, College of Intelligence and Computing, Tianjin University
+
+2021.03 - present
+- Engilish (Minor), School of Foreign Language and Literature, Tianjin University
+
+
 == About me
-I am currently a junior in College of Intelligence and Computing at Tianjin University. I am studying software engineering. My research interests include log analysis, log-based anomaly detections, machine learning and deep learning. 
-At present, I am working on a research about anomaly detection on system logs, under the supervision of [http://cic.tju.edu.cn/info/1094/2582.htm Prof. Junjie Chen].
+I am currently a junior studying software engineering at College of Intelligence and Computing at Tianjin University. 
+My research interests include log-based anomaly detections, machine learning, deep learning and natural language processing. 
+At present, I am working on a research project about anomaly detection in system logs, under the supervision of [http://cic.tju.edu.cn/info/1094/2582.htm Prof. Junjie Chen].
 
 
 == Research
 My research interests include:
-- Log analysis
-- Anomaly detection
-- Machine learning
+- Anomaly Detection
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
 
 [research.html Find out more].
 
