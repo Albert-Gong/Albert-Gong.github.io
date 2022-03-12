@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+== Research
+
+I have a great interest in varieties of research areas, including system logs, anomaly detection, machine learning and deep learning. I am always exploring every 
+fascinating area with an open mind.
+
+
+== Log-based Anomaly detection (2021.04-now)
+Currently, I am working on the project on log-based anomaly detections, under the supervision of [http://cic.tju.edu.cn/info/1094/2582.htm Prof. Junjie Chen]. \n
+
+Firstly, we conducted an empirical study on several state-of-art anomaly detection models, which leverage the technique in machine learning and deep learning.
+Then We analysed these models under different situations to evaluate their effiency, effectiveness and stability. Finally, we are going to propose an improved machine learning model
+which can detect anamalies in log sequences in a fast and accurate way.
+
+Our paper is coming soon!
+

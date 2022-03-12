@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+== Zhihao Gong
+
+~~~
+{}{img_left}{./persona/photo.jpg}{alt text}{120}{160}{}
+Undergraduate \n
+Tianjin University (TJU) \n
+[http://cic.tju.edu.cn/ College of Intelligence and Computing], Software Engineering \n
+
+Phone: \+86 138 1211 3863 \n
+Email: gongzhihao@tju.edu.cn \n
+Github: [https://github.com/Albert-orz/ Albert's github] \n
+[./persona/cv.pdf My CV] \n
+~~~
+
+== About me
+I am currently a junior in College of Intelligence and Computing at Tianjin University. I am studying software engineering. My research interests include log analysis, log-based anomaly detections, machine learning and deep learning. 
+At present, I am working on a research about anomaly detection on system logs, under the supervision of [http://cic.tju.edu.cn/info/1094/2582.htm Prof. Junjie Chen].
+
+
+== Research
+My research interests include:
+- Log analysis
+- Anomaly detection
+- Machine learning
+
+[research.html Find out more].
+
+
+
