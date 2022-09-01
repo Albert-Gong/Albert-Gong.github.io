@@ -23,9 +23,9 @@ body,html {
 	min-height: 100%;
 	/* display: flex; */
 }
-body{
+/* body{
 	margin-top: 1em;
-}
+} */
 
 #layout-menu {
 	background: #f6f6f6;
