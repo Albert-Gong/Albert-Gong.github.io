@@ -1,39 +1,54 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
-== Zhihao Gong （贡志豪）
+
+= Zhihao Gong (志豪 贡)
 
 ~~~
 {}{img_left}{./resource/img/profile.jpg}{alt text}{120}{160}{}
-Tianjin University (TJU) \n
+Tianjin University  (TJU) \n
 [http://cic.tju.edu.cn/ College of Intelligence and Computing], Software Engineering \n
-Undergraduate \n
-Phone: \+86 138 1211 3863 \n
-Email: gongzhihao@tju.edu.cn \n
-Github: [https://github.com/Albert-Gong/ Albert-Gong] \n
+Undergraduate  (Senior) \n
+
+\[[https://github.com/Albert-Gong Github]\] \[[https://www.zhihu.com/people/gong-zhi-hao-2 Zhihu]\] \[[index.html Google Scholar]\] 
+\n
 Resume: [./resource/resume/profile-zh.pdf Chinese(Simplified)] [./resource/resume/profile-en.pdf English] \n
 ~~~
 
-== Education
-2019.09 - present
-- Software Engineering, College of Intelligence and Computing, Tianjin University
 
-2021.03 - present
-- Engilish (Minor), School of Foreign Language and Literature, Tianjin University
+= About me
 
+Hello, everyone.🙃 \n
 
-== About me
-I am currently a junior studying software engineering at College of Intelligence and Computing at Tianjin University. 
-My research interests include log-based anomaly detections, machine learning, deep learning and natural language processing. 
-At present, I am working on a research project about anomaly detection in system logs, under the supervision of [http://cic.tju.edu.cn/info/1094/2582.htm Prof. Junjie Chen].
+I am Gong Zhihao from Tianjin University and I am now a senior undergradute majoring in Software Engineering at College of Intelligence and Computing, Tianjin University.
+During my undergraduate time, I was lucky to join the [https://tjusail.github.io/ SAIL Lab] under the supervision of [http://cic.tju.edu.cn/info/1094/2582.htm Prof. Junjie Chen], 
+where I did some research about AIOps and tried a project on improving log-based anomaly detection. \n
 
+I am an incoming Ph.D candidate at Pecking University (PKU) and will be under the supervision of [https://sei.pku.edu.cn/~haod/ Prof. Dan Hao].
 
-== Research
-My research interests include:
-- Anomaly Detection
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
+=== Education
+2019.09 - 2023.06 (expected)
+- B.E., Software Engineering, College of Intelligence and Computing, Tianjin University
 
-[research.html Find out more].
+2023.06 - 
+- Ph.D. candidate, Computer Science, Pecking University
 
 
+= Research
+=== Research Interest
+My current research focus is:
+- SE4AI
+- AI4SE
+- Mutation Testing
+- Bug Seeding
 
+=== Publications
+waiting
+
+= Awards
+Below are some awards I was honored with at university.
+- 2021.10 National Scholarship
+- 2021.09 The National College Student Mathematical Competion, Tianjin Province, First prize.
+- 2021.04 MCM/ICM, Mathematical Contest in Modeling, Meritorious Winner.[https://www.comap-math.com/mcm/2021Certs/2110314.pdf PDF]
+- 2020.10 Outstanding Student Leader at Tianjin University
+
+= Contact
+E-mail: gongzhihao\[@\]tju\[DOT\]edu\[DOT\]cn \n
+Address: Beiyang Ave, Nan Kai Qu, Tian Jin Shi, China
